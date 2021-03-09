@@ -1,10 +1,11 @@
 ### Hi, Niloy here 👋
 
 
-- 💻 Currently persuing my B.Tech in CSE 👨🏻‍🎓
+- 👨🏻‍🎓 Currently persuing my B.Tech in CSE
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Creative Projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...-->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niloysikdar/)
@@ -22,7 +23,6 @@
   <img align="left" alt="Niloy Sikdar | Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<br/>
 <br/>
 
 
@@ -42,3 +42,5 @@
 
 <br/>
 <br/>
+
+![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight)
