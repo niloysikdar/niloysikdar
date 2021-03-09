@@ -45,7 +45,4 @@
 
 ![Niloy's GitHub stats](https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight)
 
-<br/>
-<br/><br/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niloysikdar&layout=compact&theme=react)
