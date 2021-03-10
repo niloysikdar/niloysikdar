@@ -45,6 +45,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloysikdar&layout=compact&theme=react" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloysikdar&layout=compact&theme=react&count_private=false" />
 
 ![Niloy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=niloysikdar&theme=vision-friendly-dark)
