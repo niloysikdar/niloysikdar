@@ -16,9 +16,9 @@
 
 ### Connect with me:
 
-<a href="https://niloysikdar.github.io" target="_blank">
+<!-- - <a href="https://niloysikdar.github.io" target="_blank">
   <img align="left" alt="Niloy Sikdar | Portfolio" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/niloysikdar/" target="_blank">
   <img align="left" alt="Niloy Sikdar | Linkedin" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
