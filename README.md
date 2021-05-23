@@ -2,8 +2,8 @@
 
 
 - 👨🏻‍🎓 Currently persuing my B.Tech in CSE
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Nothing
+- 🌱 I’m currently learning Nothing
 - 👯 I’m looking to collaborate on Creative Projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 <!-- - 🤔 I’m looking for help with ... 
