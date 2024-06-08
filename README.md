@@ -1,17 +1,15 @@
 ### Hi, Niloy here 👋
 
-
 - 👨🏻‍💼 Full-stack Software Engineer
 - 🛠️ GSoC'23 @Sugar Labs, GSoC'22 @SCoRe Lab
 - 🧠 Open source, hackathon, startup, and product enthusiast
 
-<!-- - 🤔 I’m looking for help with ... 
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niloysikdar/), [Twitter/X](https://x.com/niloysikdar_)
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
-
 
 ### Connect with me:
 
@@ -28,15 +26,9 @@
   <img align="left" alt="Niloy Sikdar | Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
-
 <br/>
 <br/><br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=niloysikdar&count_private=true&show_icons=true&theme=tokyonight" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=niloysikdar&layout=compact&theme=dracula" />
-
-
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/niloysikdar/niloysikdar/raw/main/matrix.gif');]{x0000}$}
